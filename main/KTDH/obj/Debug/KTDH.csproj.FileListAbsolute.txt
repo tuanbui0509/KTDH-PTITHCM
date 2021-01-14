@@ -1,0 +1,167 @@
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\Test\KTDH\bin\Debug\KTDH.exe.config
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\Test\KTDH\bin\Debug\KTDH.exe
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\Test\KTDH\bin\Debug\KTDH.pdb
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\Test\KTDH\obj\Debug\KTDH.csprojResolveAssemblyReference.cache
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\Test\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\Test\KTDH\obj\Debug\KTDH.csproj.GenerateResource.cache
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\Test\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\Test\KTDH\obj\Debug\KTDH.exe
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\Test\KTDH\obj\Debug\KTDH.pdb
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\Test\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\DoAnCuoiKyNhom13\KTDH\bin\Debug\KTDH.exe.config
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\DoAnCuoiKyNhom13\KTDH\bin\Debug\KTDH.exe
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\DoAnCuoiKyNhom13\KTDH\bin\Debug\KTDH.pdb
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\DoAnCuoiKyNhom13\KTDH\obj\Debug\KTDH.csprojResolveAssemblyReference.cache
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\DoAnCuoiKyNhom13\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\DoAnCuoiKyNhom13\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\DoAnCuoiKyNhom13\KTDH\obj\Debug\KTDH.csproj.GenerateResource.cache
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\DoAnCuoiKyNhom13\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\DoAnCuoiKyNhom13\KTDH\obj\Debug\KTDH.exe
+D:\Study\_N3_2_KyThuatDoHoa\DoAnCuoiKy\DoAnCuoiKyNhom13\KTDH\obj\Debug\KTDH.pdb
+C:\Users\n15dc\OneDrive\Desktop\DoAnCuoiKyNhom13(final)\DoAnCuoiKyNhom13\KTDH\bin\Debug\KTDH.exe.config
+C:\Users\n15dc\OneDrive\Desktop\DoAnCuoiKyNhom13(final)\DoAnCuoiKyNhom13\KTDH\obj\Debug\KTDH.exe
+C:\Users\n15dc\OneDrive\Desktop\DoAnCuoiKyNhom13(final)\DoAnCuoiKyNhom13\KTDH\obj\Debug\KTDH.pdb
+C:\Users\n15dc\OneDrive\Desktop\DoAnCuoiKyNhom13(final)\DoAnCuoiKyNhom13\KTDH\bin\Debug\KTDH.exe
+C:\Users\n15dc\OneDrive\Desktop\DoAnCuoiKyNhom13(final)\DoAnCuoiKyNhom13\KTDH\bin\Debug\KTDH.pdb
+C:\Users\n15dc\OneDrive\Desktop\DoAnCuoiKyNhom13(final)\DoAnCuoiKyNhom13\KTDH\obj\Debug\KTDH.csprojResolveAssemblyReference.cache
+C:\Users\n15dc\OneDrive\Desktop\DoAnCuoiKyNhom13(final)\DoAnCuoiKyNhom13\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+C:\Users\n15dc\OneDrive\Desktop\DoAnCuoiKyNhom13(final)\DoAnCuoiKyNhom13\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+C:\Users\n15dc\OneDrive\Desktop\DoAnCuoiKyNhom13(final)\DoAnCuoiKyNhom13\KTDH\obj\Debug\KTDH.csproj.GenerateResource.Cache
+C:\Users\LâuGii is Me ^^\Downloads\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.exe.config
+C:\Users\LâuGii is Me ^^\Downloads\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.exe
+C:\Users\LâuGii is Me ^^\Downloads\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.pdb
+C:\Users\LâuGii is Me ^^\Downloads\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csprojAssemblyReference.cache
+C:\Users\LâuGii is Me ^^\Downloads\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+C:\Users\LâuGii is Me ^^\Downloads\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+C:\Users\LâuGii is Me ^^\Downloads\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csproj.GenerateResource.cache
+C:\Users\LâuGii is Me ^^\Downloads\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+C:\Users\LâuGii is Me ^^\Downloads\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.exe
+C:\Users\LâuGii is Me ^^\Downloads\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.pdb
+C:\Users\Windows 10 TIMT\Desktop\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.exe.config
+C:\Users\Windows 10 TIMT\Desktop\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.exe
+C:\Users\Windows 10 TIMT\Desktop\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.pdb
+C:\Users\Windows 10 TIMT\Desktop\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.exe
+C:\Users\Windows 10 TIMT\Desktop\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.pdb
+C:\Users\Windows 10 TIMT\Desktop\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10 TIMT\Desktop\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+C:\Users\Windows 10 TIMT\Desktop\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+C:\Users\Windows 10 TIMT\Desktop\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Nhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.exe.config
+C:\Users\Administrator\Downloads\Nhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.exe
+C:\Users\Administrator\Downloads\Nhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.pdb
+C:\Users\Administrator\Downloads\Nhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Nhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+C:\Users\Administrator\Downloads\Nhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Nhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Nhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Nhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.exe
+C:\Users\Administrator\Downloads\Nhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.pdb
+C:\Users\LoWji is Me ^^\Downloads\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.exe.config
+C:\Users\LoWji is Me ^^\Downloads\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.exe
+C:\Users\LoWji is Me ^^\Downloads\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.pdb
+C:\Users\LoWji is Me ^^\Downloads\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csprojAssemblyReference.cache
+C:\Users\LoWji is Me ^^\Downloads\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+C:\Users\LoWji is Me ^^\Downloads\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+C:\Users\LoWji is Me ^^\Downloads\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csproj.GenerateResource.cache
+C:\Users\LoWji is Me ^^\Downloads\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+C:\Users\LoWji is Me ^^\Downloads\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.exe
+C:\Users\LoWji is Me ^^\Downloads\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.pdb
+E:\download\KTDH1\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.exe.config
+E:\download\KTDH1\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.exe
+E:\download\KTDH1\DoAnCuoiKyNhom7\KTDH\bin\Debug\KTDH.pdb
+E:\download\KTDH1\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csprojAssemblyReference.cache
+E:\download\KTDH1\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+E:\download\KTDH1\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+E:\download\KTDH1\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csproj.GenerateResource.cache
+E:\download\KTDH1\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+E:\download\KTDH1\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.exe
+E:\download\KTDH1\DoAnCuoiKyNhom7\KTDH\obj\Debug\KTDH.pdb
+E:\HK6\KTDH\Đồ án\Đồ Án Kỹ Thuật Đồ Họa\KTDH\bin\Debug\KTDH.exe.config
+E:\HK6\KTDH\Đồ án\Đồ Án Kỹ Thuật Đồ Họa\KTDH\bin\Debug\KTDH.exe
+E:\HK6\KTDH\Đồ án\Đồ Án Kỹ Thuật Đồ Họa\KTDH\bin\Debug\KTDH.pdb
+E:\HK6\KTDH\Đồ án\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.csprojAssemblyReference.cache
+E:\HK6\KTDH\Đồ án\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+E:\HK6\KTDH\Đồ án\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+E:\HK6\KTDH\Đồ án\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.csproj.GenerateResource.cache
+E:\HK6\KTDH\Đồ án\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+E:\HK6\KTDH\Đồ án\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.exe
+E:\HK6\KTDH\Đồ án\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.pdb
+D:\Documents\HK2\KY_THUAT_DO_HOA\DOAN\Đồ Án Kỹ Thuật Đồ Họa\Đồ-Án-Kỹ-Thuật-Đồ-Họa\Đồ Án Kỹ Thuật Đồ Họa\KTDH\bin\Debug\KTDH.exe.config
+D:\Documents\HK2\KY_THUAT_DO_HOA\DOAN\Đồ Án Kỹ Thuật Đồ Họa\Đồ-Án-Kỹ-Thuật-Đồ-Họa\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.exe
+D:\Documents\HK2\KY_THUAT_DO_HOA\DOAN\Đồ Án Kỹ Thuật Đồ Họa\Đồ-Án-Kỹ-Thuật-Đồ-Họa\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.pdb
+D:\Documents\HK2\KY_THUAT_DO_HOA\DOAN\Đồ Án Kỹ Thuật Đồ Họa\Đồ-Án-Kỹ-Thuật-Đồ-Họa\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+D:\Documents\HK2\KY_THUAT_DO_HOA\DOAN\Đồ Án Kỹ Thuật Đồ Họa\Đồ-Án-Kỹ-Thuật-Đồ-Họa\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+D:\Documents\HK2\KY_THUAT_DO_HOA\DOAN\Đồ Án Kỹ Thuật Đồ Họa\Đồ-Án-Kỹ-Thuật-Đồ-Họa\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.csproj.GenerateResource.Cache
+D:\Documents\HK2\KY_THUAT_DO_HOA\DOAN\Đồ Án Kỹ Thuật Đồ Họa\Đồ-Án-Kỹ-Thuật-Đồ-Họa\Đồ Án Kỹ Thuật Đồ Họa\KTDH\bin\Debug\KTDH.exe
+D:\Documents\HK2\KY_THUAT_DO_HOA\DOAN\Đồ Án Kỹ Thuật Đồ Họa\Đồ-Án-Kỹ-Thuật-Đồ-Họa\Đồ Án Kỹ Thuật Đồ Họa\KTDH\bin\Debug\KTDH.pdb
+D:\Documents\HK2\KY_THUAT_DO_HOA\DOAN\Đồ Án Kỹ Thuật Đồ Họa\Đồ-Án-Kỹ-Thuật-Đồ-Họa\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.csprojAssemblyReference.cache
+D:\Documents\HK2\KY_THUAT_DO_HOA\DOAN\Đồ Án Kỹ Thuật Đồ Họa\Đồ-Án-Kỹ-Thuật-Đồ-Họa\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+E:\download\Đồ Án Kỹ Thuật Đồ Họa\KTDH\bin\Debug\KTDH.exe.config
+E:\download\Đồ Án Kỹ Thuật Đồ Họa\KTDH\bin\Debug\KTDH.exe
+E:\download\Đồ Án Kỹ Thuật Đồ Họa\KTDH\bin\Debug\KTDH.pdb
+E:\download\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.csprojAssemblyReference.cache
+E:\download\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+E:\download\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+E:\download\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.csproj.GenerateResource.cache
+E:\download\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+E:\download\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.exe
+E:\download\Đồ Án Kỹ Thuật Đồ Họa\KTDH\obj\Debug\KTDH.pdb
+E:\KTDH\ty\KTDH\bin\Debug\KTDH.exe.config
+E:\KTDH\ty\KTDH\obj\Debug\KTDH.exe
+E:\KTDH\ty\KTDH\obj\Debug\KTDH.pdb
+E:\KTDH\ty\KTDH\bin\Debug\KTDH.exe
+E:\KTDH\ty\KTDH\bin\Debug\KTDH.pdb
+E:\KTDH\ty\KTDH\obj\Debug\KTDH.csprojResolveAssemblyReference.cache
+E:\KTDH\ty\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+E:\KTDH\ty\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+E:\KTDH\ty\KTDH\obj\Debug\KTDH.csproj.GenerateResource.Cache
+E:\download\Đồ án chính\ty\KTDH\bin\Debug\KTDH.exe.config
+E:\download\Đồ án chính\ty\KTDH\bin\Debug\KTDH.exe
+E:\download\Đồ án chính\ty\KTDH\bin\Debug\KTDH.pdb
+E:\download\Đồ án chính\ty\KTDH\obj\Debug\KTDH.csprojAssemblyReference.cache
+E:\download\Đồ án chính\ty\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+E:\download\Đồ án chính\ty\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+E:\download\Đồ án chính\ty\KTDH\obj\Debug\KTDH.csproj.GenerateResource.cache
+E:\download\Đồ án chính\ty\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+E:\download\Đồ án chính\ty\KTDH\obj\Debug\KTDH.exe
+E:\download\Đồ án chính\ty\KTDH\obj\Debug\KTDH.pdb
+D:\Desktop\ktdh\ty\KTDH\bin\Debug\KTDH.exe.config
+D:\Desktop\ktdh\ty\KTDH\bin\Debug\KTDH.exe
+D:\Desktop\ktdh\ty\KTDH\bin\Debug\KTDH.pdb
+D:\Desktop\ktdh\ty\KTDH\obj\Debug\KTDH.csprojAssemblyReference.cache
+D:\Desktop\ktdh\ty\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+D:\Desktop\ktdh\ty\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+D:\Desktop\ktdh\ty\KTDH\obj\Debug\KTDH.csproj.GenerateResource.cache
+D:\Desktop\ktdh\ty\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+D:\Desktop\ktdh\ty\KTDH\obj\Debug\KTDH.exe
+D:\Desktop\ktdh\ty\KTDH\obj\Debug\KTDH.pdb
+E:\HK6\Do an cuoi cung\ktdh\ty\KTDH\bin\Debug\KTDH.exe.config
+E:\HK6\Do an cuoi cung\ktdh\ty\KTDH\bin\Debug\KTDH.exe
+E:\HK6\Do an cuoi cung\ktdh\ty\KTDH\bin\Debug\KTDH.pdb
+E:\HK6\Do an cuoi cung\ktdh\ty\KTDH\obj\Debug\KTDH.csprojAssemblyReference.cache
+E:\HK6\Do an cuoi cung\ktdh\ty\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+E:\HK6\Do an cuoi cung\ktdh\ty\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+E:\HK6\Do an cuoi cung\ktdh\ty\KTDH\obj\Debug\KTDH.csproj.GenerateResource.cache
+E:\HK6\Do an cuoi cung\ktdh\ty\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+E:\HK6\Do an cuoi cung\ktdh\ty\KTDH\obj\Debug\KTDH.exe
+E:\HK6\Do an cuoi cung\ktdh\ty\KTDH\obj\Debug\KTDH.pdb
+D:\Desktop\main_1\ty\KTDH\bin\Debug\KTDH.exe.config
+D:\Desktop\main_1\ty\KTDH\bin\Debug\KTDH.exe
+D:\Desktop\main_1\ty\KTDH\bin\Debug\KTDH.pdb
+D:\Desktop\main_1\ty\KTDH\obj\Debug\KTDH.csprojAssemblyReference.cache
+D:\Desktop\main_1\ty\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+D:\Desktop\main_1\ty\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+D:\Desktop\main_1\ty\KTDH\obj\Debug\KTDH.csproj.GenerateResource.cache
+D:\Desktop\main_1\ty\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+D:\Desktop\main_1\ty\KTDH\obj\Debug\KTDH.exe
+D:\Desktop\main_1\ty\KTDH\obj\Debug\KTDH.pdb
+E:\HK6\main_1\ty\KTDH\bin\Debug\KTDH.exe.config
+E:\HK6\main_1\ty\KTDH\bin\Debug\KTDH.exe
+E:\HK6\main_1\ty\KTDH\bin\Debug\KTDH.pdb
+E:\HK6\main_1\ty\KTDH\obj\Debug\KTDH.csprojAssemblyReference.cache
+E:\HK6\main_1\ty\KTDH\obj\Debug\KTDH.VeHinhCoBan.resources
+E:\HK6\main_1\ty\KTDH\obj\Debug\KTDH.Properties.Resources.resources
+E:\HK6\main_1\ty\KTDH\obj\Debug\KTDH.csproj.GenerateResource.cache
+E:\HK6\main_1\ty\KTDH\obj\Debug\KTDH.csproj.CoreCompileInputs.cache
+E:\HK6\main_1\ty\KTDH\obj\Debug\KTDH.exe
+E:\HK6\main_1\ty\KTDH\obj\Debug\KTDH.pdb
